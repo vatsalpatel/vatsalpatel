@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"> <img src="https://user-images.githubusercontent.com/40464744/204326516-466a44cc-c5e5-4b6e-ad44-5135bc4ed4fc.gif" alt="banner" /> </p>
 
 <h1 align="center">Hi 👋, I'm Vatsal</h1>
 <h3 align="center">A backend developer and competitive programmer with a keen interest in systems design</h3>
