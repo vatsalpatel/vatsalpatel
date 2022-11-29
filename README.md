@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/vatsal_64" target="blank"><img src="https://img.shields.io/twitter/follow/vatsal_64?logo=twitter&style=for-the-badge" alt="vatsal_64" /></a> </p>
 
-- 🔭 I’m currently working on [Oplens](oplens.capitsign.com)
+- 🔭 I’m currently working on [Oplens](https://oplens.capitsign.com)
 
 - 🌱 I’m currently learning **Go**
 
