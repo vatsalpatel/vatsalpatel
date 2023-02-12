@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://user-images.githubusercontent.com/40464744/204326516-466a44cc-c5e5-4b6e-ad44-5135bc4ed4fc.gif" alt="banner" /> </p>
 
 <h1 align="center">Bonjour 👋, I'm Vatsal</h1>
-<h3 align="center">A backend developer and competitive programmer with a keen interest in systems design</h3>
+<h3 align="center">A backend developer and competitive programmer with an interest in systems design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalpatel&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalpatel" /> </p>
 
@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Oplens](https://oplens.capitsign.com)
 
 - 🌱 I’m currently learning **Go**
-
-- 👯 I’m looking to collaborate on [Real Dev Squad](https://realdevsquad.com/)
 
 - 📫 How to reach me **vatsalpatel.me@gmail.com**
 
