@@ -1,21 +1,14 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/40464744/204326516-466a44cc-c5e5-4b6e-ad44-5135bc4ed4fc.gif" alt="banner" /> </p>
+<!-- <p align="center"> <img src="https://user-images.githubusercontent.com/40464744/204326516-466a44cc-c5e5-4b6e-ad44-5135bc4ed4fc.gif" alt="banner" /> </p> -->
 
-<h1 align="center">Bonjour 👋, I'm Vatsal</h1>
-<h3 align="center">A backend developer and competitive programmer with an interest in systems design</h3>
+<h3 align="center">Senior Software Engineer @ Tutero Go backend, Kubernetes, Postgres, observability at scale.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalpatel&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalpatel" /> </p>
+- 🔭 Currently Building [Tutero](https://www.tutero.com)
 
-<p align="left"> <a href="https://twitter.com/vatsal_64" target="blank"><img src="https://img.shields.io/twitter/follow/vatsal_64?logo=twitter&style=for-the-badge" alt="vatsal_64" /></a> </p>
-
-- 🔭 I’m currently working at [Tutero](https://www.tutero.com.au)
-
-- 🌱 I’m currently learning **Rust** and building cool things with it
+- 🌱 Recent open source: [supabase/auth](https://github.com/supabase/auth/pulls?q=author%3Avatsalpatel), [wundergraph/cosmo](https://github.com/wundergraph/cosmo/pull/2749)
 
 - 📫 How to reach me **vatsalpatel.me@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1scHOKYxlUtCnJpplEd7QraLbs-dA7Tds/view?usp=sharing)
-
-- ⚡ Fun fact **I am an INTJ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
