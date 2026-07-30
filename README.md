@@ -1,7 +1,7 @@
 ### Senior Software Engineer @ Tutero. Go backend, Kubernetes, Postgres, observability at scale.
 
 - 🔭 Currently building [Tutero](https://www.tutero.com.au)
-- 🌱 Recent open source: [supabase/multigres](https://github.com/multigres/multigres/pulls?q=sort%3Aupdated-desc+author%3Avatsalpatel) , [wundergraph/cosmo](https://github.com/wundergraph/cosmo/pull/2749), [supabase/auth](https://github.com/supabase/auth/pulls?q=author%3Avatsalpatel)
+- 🌱 Recent open source: [supabase/multigres](https://github.com/multigres/multigres/pulls?q=sort%3Aupdated-desc+author%3Avatsalpatel) , [wundergraph/cosmo](https://github.com/wundergraph/cosmo/pull/2749) , [vitessio/vitess](https://github.com/vitessio/vitess/pulls/vatsalpatel) , [supabase/auth](https://github.com/supabase/auth/pulls?q=author%3Avatsalpatel)
 - 📫 Reach me at **vatsalpatel.me@gmail.com**
 - 📄 Resume [here](https://drive.google.com/file/d/1scHOKYxlUtCnJpplEd7QraLbs-dA7Tds/view?usp=sharing)
 
